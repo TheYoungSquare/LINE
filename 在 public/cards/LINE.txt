@@ -1,0 +1,107 @@
+n{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://live.staticflickr.com/65535/51337485812_944e2a5349_b.jpg",
+    "size": "FULL",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "品牌總監：張瑋",
+        "size": "xl",
+        "color": "#7d4545",
+        "weight": "bold",
+        "margin": "none",
+        "decoration": "none",
+        "align": "start"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "蜂巢紙產品・家具・寵物用品"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "icon",
+            "url": "https://live.staticflickr.com/65535/51338491068_e65bffbc37_o.png"
+          },
+          {
+            "type": "text",
+            "text": "　lf2arthur@gmail.com",
+            "action": {
+              "type": "uri",
+              "label": "信箱",
+              "uri": "mailto:lf2arthur@gmail.com"
+            }
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "icon",
+            "url": "https://live.staticflickr.com/65535/51339274275_032d78271c_o.png"
+          },
+          {
+            "type": "text",
+            "text": "　0922-055-051",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "tel:0922055051"
+            }
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "icon",
+            "url": "https://live.staticflickr.com/65535/51337551947_eb276aa8c3_o.png"
+          },
+          {
+            "type": "text",
+            "text": "　新竹縣關西鎮中豐路一段150號",
+            "action": {
+              "type": "uri",
+              "label": "公司地址",
+              "uri": "https://goo.gl/maps/243fFSuo54VNjL9x6?openExternalBrowser=1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "洛陽紙櫃 網站",
+          "uri": "https://lit.link/theyoungsquare"
+        }
+      }
+    ]
+  }
+}
